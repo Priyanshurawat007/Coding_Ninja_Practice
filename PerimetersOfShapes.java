@@ -56,8 +56,8 @@ public class PerimetersOfShapes {
     }
     
     public static void main(String[] args) {
-        // PerimetersOfShapes obj = new PerimetersOfShapes();
-        // obj.PerimeterOfCircle();
+        PerimetersOfShapes obj = new PerimetersOfShapes();
+        obj.PerimeterOfCircle();
        PerimeterOfCircle();
        PerimeterOfEquilateralTriangle();
           PerimeterOfParallelogram();
